@@ -1,7 +1,7 @@
 <h1 align="center">Call me Andrew</h1>
 <h3 align="center">I like to play honkai star rail and programming</h3>
 
-<img src="https://pbs.twimg.com/media/F48gpKabYAAEbDA?format=jpg&name=4096x4096" width="400" height="400"/>
+<img src="https://pbs.twimg.com/media/F48gpKabYAAEbDA?format=jpg&name=4096x4096" width="1000" height="400"/>
 <h3 align="center">Me irl LMAO</h3>
 
 <h3 align="left">Languages and Tools:</h3>
