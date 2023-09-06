@@ -2,7 +2,7 @@
 <p align="center">I like to play honkai star rail and programming</p>
 
 <div style="text-align: center;">
-    <img src="https://pbs.twimg.com/media/F48gpKabYAAEbDA?format=jpg&name=4096x4096" width="480" height="400" style="float: left;" />
+    <img src="https://i.pinimg.com/564x/7e/58/71/7e5871b4a6e6ea956ff655c3c7581fd3.jpg" width="480" height="400" style="float: left;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewkesito&show_icons=true&locale=en&layout=compact" alt="andrewkesito" style="float: right;" />
 </div>
 <h3 align="center">Me irl LMAO</h3>
