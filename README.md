@@ -2,10 +2,10 @@
 <p align="center">I like to play honkai star rail and programming</p>
 
 <div style="text-align: center;">
-    <img src="https://i.pinimg.com/564x/7e/58/71/7e5871b4a6e6ea956ff655c3c7581fd3.jpg" width="480" height="400" style="float: left;" />
+    <img align="center" src="https://i.pinimg.com/564x/7e/58/71/7e5871b4a6e6ea956ff655c3c7581fd3.jpg" width="480" height="350" style="float: left;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewkesito&show_icons=true&locale=en&layout=compact" alt="andrewkesito" style="float: right;" />
 </div>
-<h3 align="center">Me irl LMAO</h3>
+<h3 align="center">"Uesugi-san..."</h3>
 
 
 
