@@ -1,9 +1,8 @@
 <h1 align="center">Call me Andrew</h1>
 <p align="center">I like to play honkai star rail and programming</p>
 
-<div style="text-align: center;">
-    <img align="center" src="https://i.pinimg.com/564x/7e/58/71/7e5871b4a6e6ea956ff655c3c7581fd3.jpg" width="480" height="350" style="float: left;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewkesito&show_icons=true&locale=en&layout=compact" alt="andrewkesito" style="float: right;" />
+<h1 align="center">
+    <img align="center" src="https://i.pinimg.com/564x/7e/58/71/7e5871b4a6e6ea956ff655c3c7581fd3.jpg" width="480" height="350"/>
 </div>
 <h3 align="center">"Uesugi-san..."</h3>
 
